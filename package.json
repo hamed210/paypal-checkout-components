@@ -104,7 +104,7 @@
     "prettier-plugin-sh": "^0.10.0",
     "puppeteer": "^1.20.0",
     "serve": "^14.0.0",
-    "vite": "^3.2.4",
+    "vite": "^6.2.6",
     "vitest": "^1.3.1",
     "flow-remove-types": "2.246.0",
     "hermes-parser": "0.23.1"
